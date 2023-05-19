@@ -1,2 +1,2 @@
 # First task
-# Hosting https://galabalab.github.io/firsttask/
+[Hosting](https://galabalab.github.io/firsttask/)
